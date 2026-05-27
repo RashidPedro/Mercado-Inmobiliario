@@ -1,0 +1,282 @@
+<div style="width: 100%; max-width: 780px; margin: 0 auto; overflow-x: hidden;">
+    <div style="background: #111111; padding: 64px 24px 56px;">
+        <div style="max-width: 780px; width: 100%; margin: 0 auto; display: grid; grid-template-columns: minmax(0,1fr) minmax(0,1fr); gap: 24px; align-items: end;">
+            <div>
+                <div style="font-family: 'Barlow Condensed',sans-serif; font-size: 11px; color: #e85c00; margin-bottom: 20px;">An&aacute;huac Online</div>
+                <h1 style="font-family: 'Barlow Condensed',sans-serif; font-size: 64px; color: #ffffff; line-height: 1; margin-bottom: 24px;">Reporte de Riesgos<br />Sector Inmobiliario</h1>
+                <p style="font-size: 15px; color: #999; margin-bottom: 32px;">An&aacute;lisis Macroecon&oacute;mico y Financiero &middot; Cierre 2025</p>
+                <ul style="list-style: none; display: flex; flex-direction: column; gap: 8px;">
+                    <li style="font-size: 13px; color: #666;"><span style="color: #e85c00; margin-right: 10px;">01</span>Entorno Macrofinanciero</li>
+                    <li style="font-size: 13px; color: #666;"><span style="color: #e85c00; margin-right: 10px;">02</span>Sector Construcci&oacute;n y Vivienda</li>
+                    <li style="font-size: 13px; color: #666;"><span style="color: #e85c00; margin-right: 10px;">03</span>Sistema Crediticio</li>
+                    <li style="font-size: 13px; color: #666;"><span style="color: #e85c00; margin-right: 10px;">04</span>Oportunidades Estrat&eacute;gicas</li>
+                    <li style="font-size: 13px; color: #666;"><span style="color: #e85c00; margin-right: 10px;">05</span>Consideraciones Finales</li>
+                </ul>
+            </div>
+            <div style="display: flex; flex-direction: column; gap: 16px; justify-content: flex-end;">
+                <div style="display: grid; grid-template-columns: minmax(0,1fr) minmax(0,1fr); gap: 16px;">
+                    <div style="border: 1px solid #2a2a2a; padding: 20px 24px;">
+                        <div style="font-family: 'Barlow Condensed',sans-serif; font-size: 34px; color: #e85c00; line-height: 1; margin-bottom: 6px;">7.25%</div>
+                        <div style="font-size: 11px; color: rgba(255,255,255,.5);">Tasa de referencia actual</div>
+                    </div>
+                    <div style="background: #E85C00; padding: 20px 24px;">
+                        <div style="font-family: 'Barlow Condensed',sans-serif; font-size: 34px; color: #ffffff; line-height: 1; margin-bottom: 6px;">17.8%</div>
+                        <div style="font-size: 11px; color: rgba(255,255,255,.8);">ICAP &mdash; &Iacute;ndice de Capitalizaci&oacute;n</div>
+                    </div>
+                </div>
+                <div style="display: grid; grid-template-columns: minmax(0,1fr) minmax(0,1fr); gap: 16px;">
+                    <div style="border: 1px solid #2a2a2a; padding: 20px 24px;">
+                        <div style="font-family: 'Barlow Condensed',sans-serif; font-size: 34px; color: #e85c00; line-height: 1; margin-bottom: 6px;">+0.45%</div>
+                        <div style="font-size: 11px; color: rgba(255,255,255,.5);">Crecimiento Q2</div>
+                    </div>
+                    <div style="border: 1px solid #2a2a2a; padding: 20px 24px;">
+                        <div style="font-family: 'Barlow Condensed',sans-serif; font-size: 34px; color: #e85c00; line-height: 1; margin-bottom: 6px;">87.6%</div>
+                        <div style="font-size: 11px; color: rgba(255,255,255,.5);">PYMES sin cr&eacute;dito</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div style="background: #FFFFFF; padding: 56px 24px;">
+        <div style="max-width: 780px; width: 100%; margin: 0 auto;">
+            <div style="display: flex; gap: 16px; padding-bottom: 28px; border-bottom: 1px solid #E2E0DB; margin-bottom: 40px;">
+                <div style="font-family: 'Barlow Condensed',sans-serif; font-size: 56px; color: #e85c00; line-height: 1;">01</div>
+                <div>
+                    <div style="font-family: 'Barlow Condensed',sans-serif; font-size: 28px; color: #1a1a1a; line-height: 1.1; margin-bottom: 6px;">Entorno Macrofinanciero y su Impacto en el Costo del Capital</div>
+                    <div style="font-size: 13px; color: #888;">Estabilidad monetaria &middot; Pol&iacute;tica de tasas &middot; Vulnerabilidades externas</div>
+                </div>
+            </div>
+            <h2 style="font-family: 'Barlow Condensed',sans-serif; font-size: 22px; color: #1a1a1a; margin-bottom: 16px;">Panorama General</h2>
+            <p style="font-size: 15px; color: #444; line-height: 1.7; margin-bottom: 28px;">Al cierre de 2025, la estabilidad macroecon&oacute;mica se reafirma como el pilar fundamental para la planeaci&oacute;n financiera y el c&aacute;lculo de tasas de descuento en proyectos inmobiliarios de gran escala. En un entorno de alta sensibilidad a los flujos de capital, la predictibilidad de las variables monetarias no es solo un indicador de salud nacional, sino la m&eacute;trica base que determina la viabilidad de los flujos de caja netos y el costo de oportunidad de la inversi&oacute;n f&iacute;sica frente a activos financieros l&iacute;quidos.</p>
+            <div style="display: grid; grid-template-columns: repeat(3,minmax(0,1fr)); gap: 16px; margin-bottom: 28px;">
+                <div style="background: #111111; padding: 24px 28px;">
+                    <div style="font-family: 'Barlow Condensed',sans-serif; font-size: 44px; color: #e85c00; line-height: 1; margin-bottom: 8px;">7.25%</div>
+                    <div style="font-size: 12px; color: #888; line-height: 1.4;">Tasa de referencia actual</div>
+                </div>
+                <div style="background: #F7F6F4; border: 1px solid #E2E0DB; padding: 24px 28px;">
+                    <div style="font-family: 'Barlow Condensed',sans-serif; font-size: 44px; color: #e85c00; line-height: 1; margin-bottom: 8px;">+0.45%</div>
+                    <div style="font-size: 12px; color: #666; line-height: 1.4;">Crecimiento econ&oacute;mico Q2 (aceleraci&oacute;n)</div>
+                </div>
+                <div style="background: #F7F6F4; border: 1px solid #E2E0DB; padding: 24px 28px;">
+                    <div style="font-family: 'Barlow Condensed',sans-serif; font-size: 44px; color: #333; line-height: 1; margin-bottom: 8px;">-0.29%</div>
+                    <div style="font-size: 12px; color: #666; line-height: 1.4;">Contracci&oacute;n Q3 (sector industrial)</div>
+                </div>
+            </div>
+            <p style="font-size: 13px; color: #999; line-height: 1.6; font-style: italic; margin-bottom: 48px;">La pol&iacute;tica monetaria nacional ha transitado hacia un ciclo de relajamiento, situando la tasa de referencia en un 7.25% tras recortes consecutivos en junio, agosto, septiembre y noviembre. Este ciclo ha favorecido la compresi&oacute;n de las primas de riesgo pa&iacute;s (CDS) y una apreciaci&oacute;n del peso mexicano.</p>
+            <hr style="border: none; border-top: 1px solid #E2E0DB; margin-bottom: 40px;" />
+            <h2 style="font-family: 'Barlow Condensed',sans-serif; font-size: 22px; color: #1a1a1a; margin-bottom: 16px;">Nodos de Vulnerabilidad Externa</h2>
+            <p style="font-size: 15px; color: #444; line-height: 1.7; margin-bottom: 24px;">La Encuesta de percepci&oacute;n del riesgo sist&eacute;mico advierte sobre tres factores que podr&iacute;an forzar un endurecimiento de los est&aacute;ndares crediticios:</p>
+            <div style="display: grid; grid-template-columns: repeat(3,minmax(0,1fr)); gap: 16px;">
+                <div style="background: #111111; border-top: 4px solid #E85C00; padding: 24px;">
+                    <div style="font-family: 'Barlow Condensed',sans-serif; font-size: 46px; color: #e85c00; line-height: 1; margin-bottom: 12px;">01</div>
+                    <div style="font-size: 14px; margin-bottom: 10px; color: #ffffff;">Moderaci&oacute;n del crecimiento global</div>
+                    <div style="font-size: 13px; color: #999; line-height: 1.5;">Enfriamiento mayor al previsto en econom&iacute;as avanzadas, particularmente en el sector servicios.</div>
+                </div>
+                <div style="background: #F7F6F4; border: 1px solid #E2E0DB; border-top: 4px solid #E85C00; padding: 24px;">
+                    <div style="font-family: 'Barlow Condensed',sans-serif; font-size: 46px; color: #e85c00; line-height: 1; margin-bottom: 12px;">02</div>
+                    <div style="font-size: 14px; margin-bottom: 10px; color: #1a1a1a;">Resurgimiento de pol&iacute;ticas proteccionistas</div>
+                    <div style="font-size: 13px; color: #666; line-height: 1.5;">Incertidumbre sobre aranceles y la reconfiguraci&oacute;n de cadenas de valor (T-MEC).</div>
+                </div>
+                <div style="background: #F7F6F4; border: 1px solid #E2E0DB; border-top: 4px solid #E85C00; padding: 24px;">
+                    <div style="font-family: 'Barlow Condensed',sans-serif; font-size: 46px; color: #e85c00; line-height: 1; margin-bottom: 12px;">03</div>
+                    <div style="font-size: 14px; margin-bottom: 10px; color: #1a1a1a;">Inflaci&oacute;n persistente</div>
+                    <div style="font-size: 13px; color: #666; line-height: 1.5;">Choques de oferta que impidan la convergencia hacia la meta del 3% y obliguen a mantener tasas reales elevadas.</div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div style="background: #EDECEA; padding: 56px 24px;">
+        <div style="max-width: 780px; width: 100%; margin: 0 auto;">
+            <div style="display: flex; gap: 16px; padding-bottom: 28px; border-bottom: 1px solid #D4D1CC; margin-bottom: 40px;">
+                <div style="font-family: 'Barlow Condensed',sans-serif; font-size: 56px; color: #e85c00; line-height: 1;">02</div>
+                <div>
+                    <div style="font-family: 'Barlow Condensed',sans-serif; font-size: 28px; color: #1a1a1a; line-height: 1.1; margin-bottom: 6px;">Diagn&oacute;stico del Sector Construcci&oacute;n y Vivienda</div>
+                    <div style="font-size: 13px; color: #888;">Heterogeneidad productiva &middot; Edificaci&oacute;n vs. obra civil &middot; Exposici&oacute;n bancaria</div>
+                </div>
+            </div>
+            <p style="font-size: 15px; color: #444; line-height: 1.7; margin-bottom: 36px;">Desde una perspectiva de estrategia inmobiliaria, es imperativo monitorear la heterogeneidad productiva para identificar vulnerabilidades antes de comprometer capital. El sector construcci&oacute;n no es monol&iacute;tico; su resiliencia depende de la divergencia entre la inversi&oacute;n en infraestructura p&uacute;blica y la din&aacute;mica de la edificaci&oacute;n comercial y habitacional.</p>
+            <div style="display: grid; grid-template-columns: minmax(0,1fr) minmax(0,1fr); gap: 16px; margin-bottom: 28px;">
+                <div style="background: #111111; padding: 28px 32px; display: flex; flex-direction: column; justify-content: center;">
+                    <div style="font-size: 10px; color: #e85c00; margin-bottom: 12px;">Efecto de Amplificaci&oacute;n</div>
+                    <div style="font-size: 13px; color: #bbb; line-height: 1.6;">Dualidad marcada: la edificaci&oacute;n ha funcionado como estabilizador con tasas positivas, mientras la obra de ingenier&iacute;a civil ha registrado una contracci&oacute;n significativa tras el agotamiento de ciclos de inversi&oacute;n previos.</div>
+                </div>
+                <div style="background: #FFFFFF; border: 1px solid #D4D1CC; padding: 28px 32px; display: flex; flex-direction: column; justify-content: center;">
+                    <div style="font-size: 15px; color: #1a1a1a; margin-bottom: 12px;">Exposici&oacute;n Bancaria al Sector</div>
+                    <div style="font-family: 'Barlow Condensed',sans-serif; font-size: 52px; color: #e85c00; line-height: 1; margin-bottom: 8px;">13.4%</div>
+                    <div style="font-size: 12px; color: #888;">Concentraci&oacute;n preocupante en instituciones de tama&ntilde;o peque&ntilde;o y mediano.</div>
+                </div>
+            </div>
+            <p style="font-size: 13px; color: #999; line-height: 1.6; font-style: italic; margin-bottom: 48px;">La salud financiera del sector construcci&oacute;n, y espec&iacute;ficamente la capacidad de la edificaci&oacute;n para compensar la ca&iacute;da en obra civil, ser&aacute; el determinante cr&iacute;tico del riesgo crediticio empresarial para el cierre del ciclo fiscal.</p>
+            <hr style="border: none; border-top: 1px solid #D4D1CC; margin-bottom: 40px;" />
+            <h2 style="font-family: 'Barlow Condensed',sans-serif; font-size: 22px; color: #1a1a1a; margin-bottom: 6px;">Indicadores Clave por Fuente de Financiamiento</h2>
+            <p style="font-size: 13px; color: #888; margin-bottom: 20px;">Comportamiento del IMOR y Actividad de Originaci&oacute;n</p>
+            <div style="overflow-x: hidden; width: 100%;">
+                <table style="width: 100%; border-collapse: collapse; table-layout: fixed; font-size: 14px;">
+                    <thead>
+                        <tr>
+                            <th style="background: #111111; color: #ffffff; padding: 14px 18px; text-align: left; font-size: 13px;">Fuente de Financiamiento</th>
+                            <th style="background: #111111; color: #ffffff; padding: 14px 18px; text-align: left; font-size: 13px;">Comportamiento del IMOR</th>
+                            <th style="background: #E85C00; color: #ffffff; padding: 14px 18px; text-align: left; font-size: 13px;">Actividad de Originaci&oacute;n</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr style="border-bottom: 1px solid #D4D1CC;">
+                            <td style="padding: 16px 18px; color: #333; line-height: 1.4; vertical-align: top; background: #FFFFFF;"><strong>Banca M&uacute;ltiple</strong></td>
+                            <td style="padding: 16px 18px; color: #444; line-height: 1.4; vertical-align: top; background: #FFFFFF;">Incremento marginal (especialmente en carteras empresariales)</td>
+                            <td style="padding: 16px 18px; color: #444; line-height: 1.4; vertical-align: top; background: #FFFFFF;">Crecimiento real positivo pero desacelerado</td>
+                        </tr>
+                        <tr style="border-bottom: 1px solid #D4D1CC;">
+                            <td style="padding: 16px 18px; color: #333; line-height: 1.4; vertical-align: top; background: #F5F4F2;"><strong>Infonavit</strong></td>
+                            <td style="padding: 16px 18px; color: #444; line-height: 1.4; vertical-align: top; background: #F5F4F2;">Niveles altos respecto a su promedio de 5 a&ntilde;os</td>
+                            <td style="padding: 16px 18px; color: #444; line-height: 1.4; vertical-align: top; background: #F5F4F2;">Actividad de originaci&oacute;n en aumento sostenido</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 16px 18px; color: #333; line-height: 1.4; vertical-align: top; background: #FFFFFF;"><strong>Fovissste</strong></td>
+                            <td style="padding: 16px 18px; color: #444; line-height: 1.4; vertical-align: top; background: #FFFFFF;">Niveles hist&oacute;ricamente elevados</td>
+                            <td style="padding: 16px 18px; color: #444; line-height: 1.4; vertical-align: top; background: #FFFFFF;">Contracci&oacute;n real en el saldo de cartera y actividad</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+    <div style="background: #FFFFFF; padding: 56px 24px;">
+        <div style="max-width: 780px; width: 100%; margin: 0 auto;">
+            <div style="display: flex; gap: 16px; padding-bottom: 28px; border-bottom: 1px solid #E2E0DB; margin-bottom: 40px;">
+                <div style="font-family: 'Barlow Condensed',sans-serif; font-size: 56px; color: #e85c00; line-height: 1;">03</div>
+                <div>
+                    <div style="font-family: 'Barlow Condensed',sans-serif; font-size: 28px; color: #1a1a1a; line-height: 1.1; margin-bottom: 6px;">Evaluaci&oacute;n de Riesgos del Sistema Crediticio</div>
+                    <div style="font-size: 13px; color: #888;">&Iacute;ndice de vulnerabilidades &middot; ICAP &middot; Morosidad en SOFIPOS</div>
+                </div>
+            </div>
+            <p style="font-size: 15px; color: #444; line-height: 1.7; margin-bottom: 28px;">El marco de estabilidad financiera de Banco de M&eacute;xico utiliza &iacute;ndices de estr&eacute;s y vulnerabilidad como diagn&oacute;sticos preventivos para el inversionista institucional. El &Iacute;ndice de Vulnerabilidades Macrofinancieras confirma que los sectores financiero, real, externo y p&uacute;blico operan por debajo del umbral de alerta. La mejora m&aacute;s notable se registra en el sector financiero, fundamentada en un &Iacute;ndice de Capitalizaci&oacute;n (ICAP) del 17.8%.</p>
+            <div style="display: grid; grid-template-columns: minmax(0,2fr) minmax(0,3fr); gap: 16px; margin-bottom: 48px;">
+                <div style="background: #E85C00; padding: 28px 32px; display: flex; flex-direction: column; justify-content: center;">
+                    <div style="font-size: 10px; color: rgba(255,255,255,.65); margin-bottom: 12px;">ICAP</div>
+                    <div style="font-family: 'Barlow Condensed',sans-serif; font-size: 52px; color: #ffffff; line-height: 1; margin-bottom: 8px;">17.8%</div>
+                    <div style="font-size: 12px; color: rgba(255,255,255,.75);">&Iacute;ndice de Capitalizaci&oacute;n</div>
+                </div>
+                <div style="background: #F7F6F4; border: 1px solid #E2E0DB; padding: 28px 32px; display: flex; flex-direction: column; justify-content: center;">
+                    <div style="font-size: 15px; color: #1a1a1a; margin-bottom: 12px;">Intermediarios No Bancarios &mdash; Sensibilidad Extrema</div>
+                    <div style="font-size: 13px; color: #555; line-height: 1.6;">El &Iacute;ndice de Morosidad (IMOR) de las Sociedades Financieras Populares (SOFIPOS) presenta correlaciones directas con variables del entorno econ&oacute;mico.<br /><br />Esta solvencia robusta del sistema bancario, contrastada con la fragilidad de los intermediarios menores, crea una paradoja de restricci&oacute;n selectiva que debe interpretarse como una oportunidad estrat&eacute;gica para los actores m&aacute;s solventes del mercado inmobiliario.</div>
+                </div>
+            </div>
+            <hr style="border: none; border-top: 1px solid #E2E0DB; margin-bottom: 40px;" />
+            <h2 style="font-family: 'Barlow Condensed',sans-serif; font-size: 22px; color: #1a1a1a; margin-bottom: 6px;">Determinantes Cr&iacute;ticos de la Morosidad en SOFIPOS</h2>
+            <p style="font-size: 13px; color: #888; margin-bottom: 20px;">Correlaciones directas con el &Iacute;ndice de Morosidad (IMOR)</p>
+            <div style="overflow-x: hidden; width: 100%;">
+                <table style="width: 100%; border-collapse: collapse; table-layout: fixed; font-size: 14px;">
+                    <thead>
+                        <tr>
+                            <th style="background: #111111; color: #ffffff; padding: 14px 18px; text-align: left; font-size: 13px;">Variable</th>
+                            <th style="background: #111111; color: #ffffff; padding: 14px 18px; text-align: left; font-size: 13px;">Incremento</th>
+                            <th style="background: #E85C00; color: #ffffff; padding: 14px 18px; text-align: left; font-size: 13px;">Efecto en IMOR</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr style="border-bottom: 1px solid #E2E0DB;">
+                            <td style="padding: 16px 18px; color: #444; vertical-align: top;"><strong>Desempleo</strong></td>
+                            <td style="padding: 16px 18px; color: #444; vertical-align: top;">+1 pp</td>
+                            <td style="padding: 16px 18px; color: #1a1a1a; vertical-align: top;">+5 pp en el IMOR</td>
+                        </tr>
+                        <tr style="border-bottom: 1px solid #E2E0DB; background: #F7F6F4;">
+                            <td style="padding: 16px 18px; color: #444; vertical-align: top;"><strong>Tasa de Inter&eacute;s Real</strong></td>
+                            <td style="padding: 16px 18px; color: #444; vertical-align: top;">+1 pp</td>
+                            <td style="padding: 16px 18px; color: #1a1a1a; vertical-align: top;">+2 pp en el IMOR</td>
+                        </tr>
+                        <tr style="border-bottom: 1px solid #E2E0DB;">
+                            <td style="padding: 16px 18px; color: #444; vertical-align: top;"><strong>Inflaci&oacute;n Anual</strong></td>
+                            <td style="padding: 16px 18px; color: #444; vertical-align: top;">+1 pp</td>
+                            <td style="padding: 16px 18px; color: #1a1a1a; vertical-align: top;">+2 pp en el IMOR</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+    <div style="background: #111111; padding: 56px 24px;">
+        <div style="max-width: 780px; width: 100%; margin: 0 auto;">
+            <div style="display: flex; gap: 16px; padding-bottom: 28px; border-bottom: 1px solid #2a2a2a; margin-bottom: 40px;">
+                <div style="font-family: 'Barlow Condensed',sans-serif; font-size: 56px; color: #e85c00; line-height: 1;">04</div>
+                <div>
+                    <div style="font-family: 'Barlow Condensed',sans-serif; font-size: 28px; color: #ffffff; line-height: 1.1; margin-bottom: 6px;">Oportunidades ante la Restricci&oacute;n de Cr&eacute;dito</div>
+                    <div style="font-size: 13px; color: #666;">Escenarios de cola &middot; Consolidaci&oacute;n de mercado &middot; Puntos de decisi&oacute;n estrat&eacute;gica</div>
+                </div>
+            </div>
+            <p style="font-size: 15px; color: #bbb; line-height: 1.7; margin-bottom: 36px;">En la estrategia de riesgos, los escenarios de cola (eventos de baja probabilidad pero alto impacto) definen la supervivencia del capital. La actual capacidad de absorci&oacute;n del sistema mexicano (ICAP 17.8%) permite que los desarrolladores con balances s&oacute;lidos capitalicen la escasez de liquidez que enfrentan sus competidores, transformando la barrera de entrada financiera en un foso competitivo.</p>
+            <div style="display: grid; grid-template-columns: minmax(0,1fr) minmax(0,1fr); gap: 16px; margin-bottom: 48px;">
+                <div style="background: #E85C00; padding: 28px 32px; display: flex; flex-direction: column; justify-content: center;">
+                    <div style="font-size: 10px; color: rgba(255,255,255,.65); margin-bottom: 12px;">Brecha de Financiamiento</div>
+                    <div style="font-family: 'Barlow Condensed',sans-serif; font-size: 44px; color: #ffffff; line-height: 1; margin-bottom: 8px;">&minus;2.9 pts<br /><span style="font-size: 0.6em; color: rgba(255,255,255,.7);">del PIB</span></div>
+                    <div style="font-size: 12px; color: rgba(255,255,255,.75);">Brecha de financiamiento negativa actual</div>
+                </div>
+                <div style="border: 1px solid #2a2a2a; padding: 28px 32px; display: flex; flex-direction: column; justify-content: center;">
+                    <div style="font-size: 15px; color: #ffffff; margin-bottom: 12px;">PYMES sin cr&eacute;dito</div>
+                    <div style="font-family: 'Barlow Condensed',sans-serif; font-size: 52px; color: #e85c00; line-height: 1; margin-bottom: 8px;">87.6%</div>
+                    <div style="font-size: 12px; color: #666;">no obtuvieron el cr&eacute;dito necesitado</div>
+                </div>
+            </div>
+            <hr style="border: none; border-top: 1px solid #2a2a2a; margin-bottom: 40px;" />
+            <h2 style="font-family: 'Barlow Condensed',sans-serif; font-size: 22px; color: #ffffff; margin-bottom: 24px;">Puntos de Decisi&oacute;n Estrat&eacute;gica</h2>
+            <div style="display: flex; flex-direction: column; gap: 12px;">
+                <div style="background: #1a1a1a; border: 1px solid #2a2a2a; display: flex; overflow: hidden;">
+                    <div style="padding: 20px 24px; flex: 1;">
+                        <div style="font-size: 15px; color: #e85c00; margin-bottom: 6px;">Reactivaci&oacute;n del mercado de capitales</div>
+                        <div style="font-size: 13px; color: #999; line-height: 1.5;">La OPI de Fibra Next (primera desde 2017) marca el fin de una sequ&iacute;a de 7 a&ntilde;os en emisiones burs&aacute;tiles inmobiliarias, abriendo una ventana de salida y fondeo para portafolios industriales y log&iacute;sticos.</div>
+                    </div>
+                </div>
+                <div style="background: #1a1a1a; border: 1px solid #2a2a2a; display: flex; overflow: hidden;">
+                    <div style="padding: 20px 24px; flex: 1;">
+                        <div style="font-size: 15px; color: #ffffff; margin-bottom: 6px;">Pricing de riesgo soberano</div>
+                        <div style="font-size: 13px; color: #999; line-height: 1.5;">La mejora en la calificaci&oacute;n de Pemex y la ratificaci&oacute;n de la perspectiva estable del soberano reducen la presi&oacute;n sobre el funding de largo plazo.</div>
+                    </div>
+                </div>
+                <div style="background: #1a1a1a; border: 1px solid #2a2a2a; display: flex; overflow: hidden;">
+                    <div style="padding: 20px 24px; flex: 1;">
+                        <div style="font-size: 15px; color: #ffffff; margin-bottom: 6px;">Apreciaci&oacute;n del peso</div>
+                        <div style="font-size: 13px; color: #999; line-height: 1.5;">Ventaja t&aacute;ctica para la importaci&oacute;n de bienes de capital y componentes tecnol&oacute;gicos en desarrollos inteligentes, compensando el costo de las tasas reales.</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div style="background: #FFFFFF; padding: 56px 24px;">
+        <div style="max-width: 780px; width: 100%; margin: 0 auto;">
+            <div style="display: flex; gap: 16px; padding-bottom: 28px; border-bottom: 1px solid #E2E0DB; margin-bottom: 40px;">
+                <div style="font-family: 'Barlow Condensed',sans-serif; font-size: 56px; color: #e85c00; line-height: 1;">05</div>
+                <div>
+                    <div style="font-family: 'Barlow Condensed',sans-serif; font-size: 28px; color: #1a1a1a; line-height: 1.1; margin-bottom: 6px;">Consideraciones Finales y Perspectivas de Estabilidad</div>
+                    <div style="font-size: 13px; color: #888;">Liquidez &middot; Capitalizaci&oacute;n &middot; Riesgos clim&aacute;ticos &middot; Br&uacute;jula institucional</div>
+                </div>
+            </div>
+            <p style="font-size: 15px; color: #444; line-height: 1.7; margin-bottom: 28px;">Hacia el cierre de 2025, la postura de Banco de M&eacute;xico reafirma la solidez y resiliencia del sistema financiero nacional. La posici&oacute;n de liquidez y los niveles de capitalizaci&oacute;n se mantienen muy por encima de los m&iacute;nimos regulatorios, garantizando la continuidad de la intermediaci&oacute;n ante la volatilidad global.</p>
+            <div style="display: grid; grid-template-columns: minmax(0,1fr) minmax(0,1fr); gap: 16px;">
+                <div style="background: #F7F6F4; border: 1px solid #E2E0DB; padding: 28px 32px; display: flex; flex-direction: column; justify-content: center;">
+                    <div style="font-size: 15px; color: #1a1a1a; margin-bottom: 12px;">Riesgo Ambiental &mdash; Prioridad Cr&iacute;tica</div>
+                    <div style="font-size: 13px; color: #555; line-height: 1.6;">La viabilidad de proyectos inmobiliarios debe integrar en su matriz de riesgos la sostenibilidad fiscal y, de manera cr&iacute;tica, los riesgos ambientales. El reporte identifica a las inundaciones y riesgos h&iacute;dricos como la principal amenaza f&iacute;sica para los activos inmobiliarios y las carteras hipotecarias, exigiendo criterios de resiliencia clim&aacute;tica para asegurar el financiamiento futuro.</div>
+                </div>
+                <div style="background: #111111; padding: 28px 32px; display: flex; flex-direction: column; justify-content: center;">
+                    <div style="font-size: 10px; color: #e85c00; margin-bottom: 12px;">Br&uacute;jula Institucional</div>
+                    <div style="font-size: 13px; color: #bbb; line-height: 1.6;">El Reporte de Estabilidad Financiera constituye la br&uacute;jula institucional indispensable para contextualizar cualquier an&aacute;lisis de viabilidad, proporcionando la certidumbre t&eacute;cnica necesaria para la toma de decisiones en el entorno macroecon&oacute;mico actual.</div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div style="background: #E85C00; padding: 36px 24px;">
+        <div style="max-width: 780px; width: 100%; margin: 0 auto; display: grid; grid-template-columns: minmax(0,1fr) minmax(0,1fr); gap: 24px; align-items: end;">
+            <div>
+                <div style="font-family: 'Barlow Condensed',sans-serif; font-size: 56px; color: #ffffff; line-height: 1.0; margin-bottom: 100px;"><img id="2589" src="https://anahuacmerida.instructure.com/courses/130/files/2589/preview" alt="Logotipo AnahuacOnline.svg" width="297" height="83" data-api-endpoint="https://anahuacmerida.instructure.com/api/v1/courses/130/files/2589" data-api-returntype="File" /></div>
+            </div>
+            <div style="display: flex; flex-direction: column; gap: 16px; justify-content: flex-end;">
+                <div style="background: rgba(0,0,0,.2); padding: 20px 24px;">
+                    <div style="font-size: 10px; color: rgba(255,255,255,.6); margin-bottom: 10px;">Sistema financiero s&oacute;lido</div>
+                    <div style="font-size: 13px; color: rgba(255,255,255,.85); line-height: 1.5;">Los &iacute;ndices de capitalizaci&oacute;n y liquidez se mantienen muy por encima de los m&iacute;nimos regulatorios, garantizando la continuidad de la intermediaci&oacute;n.</div>
+                </div>
+                <div style="background: rgba(0,0,0,.2); padding: 20px 24px;">
+                    <div style="font-size: 10px; color: rgba(255,255,255,.6); margin-bottom: 10px;">Ventana de oportunidad</div>
+                    <div style="font-size: 13px; color: rgba(255,255,255,.85); line-height: 1.5;">La restricci&oacute;n selectiva de cr&eacute;dito transforma la fortaleza financiera en una ventaja competitiva duradera para los actores m&aacute;s solventes del mercado inmobiliario.</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
