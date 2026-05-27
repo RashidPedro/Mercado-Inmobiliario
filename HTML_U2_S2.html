@@ -1,0 +1,293 @@
+<div style="width: 100%; max-width: 780px; margin: 0 auto; overflow-x: hidden;">
+    <div style="background: #111111; padding: 64px 24px 56px; overflow-x: hidden;">
+        <div style="max-width: 780px; width: 100%; margin: 0 auto; display: grid; grid-template-columns: minmax(0,1fr) minmax(0,1fr); gap: 24px; align-items: end;">
+            <div>
+                <div style="font-family: 'Barlow Condensed',sans-serif; font-size: 11px; color: #e85c00; margin-bottom: 20px;">An&aacute;huac Online</div>
+                <h1 style="font-family: 'Barlow Condensed',sans-serif; font-size: 38px; color: #ffffff; line-height: 1; margin-bottom: 24px;">Modelado del Valor de Venta Forzosa mediante el stMCA</h1>
+                <p style="font-size: 15px; color: #999; margin-bottom: 32px;">An&aacute;lisis Estrat&eacute;gico &middot; Ingenier&iacute;a de Valuaci&oacute;n &middot; Ejecuciones Judiciales</p>
+                <ul style="list-style: none; display: flex; flex-direction: column; gap: 8px;">
+                    <li style="font-size: 13px; color: #666;"><span style="color: #e85c00; margin-right: 10px;">01</span>Naturaleza de la Venta Forzosa y el Valor de Mercado</li>
+                    <li style="font-size: 13px; color: #666;"><span style="color: #e85c00; margin-right: 10px;">02</span>El Modelo stMCA: Arquitectura de la Funci&oacute;n de Precio</li>
+                    <li style="font-size: 13px; color: #666;"><span style="color: #e85c00; margin-right: 10px;">03</span>Protocolo de Implementaci&oacute;n</li>
+                    <li style="font-size: 13px; color: #666;"><span style="color: #e85c00; margin-right: 10px;">04</span>Conclusiones y Recomendaciones Estrat&eacute;gicas</li>
+                </ul>
+            </div>
+            <div style="display: flex; flex-direction: column; gap: 16px; justify-content: flex-end;">
+                <div style="display: grid; grid-template-columns: minmax(0,1fr) minmax(0,1fr); gap: 16px;">
+                    <div style="border: 1px solid #2a2a2a; padding: 20px 24px;">
+                        <div style="font-family: 'Barlow Condensed',sans-serif; font-size: 38px; color: #e85c00; line-height: 1; margin-bottom: 6px;">3</div>
+                        <div style="font-size: 11px; color: rgba(255,255,255,.5);">Limitaciones operativas de la venta forzosa</div>
+                    </div>
+                    <div style="background: #E85C00; padding: 20px 24px;">
+                        <div style="font-family: 'Barlow Condensed',sans-serif; font-size: 38px; color: #ffffff; line-height: 1; margin-bottom: 6px;">5</div>
+                        <div style="font-size: 11px; color: rgba(255,255,255,.8);">Etapas del protocolo de implementaci&oacute;n</div>
+                    </div>
+                </div>
+                <div style="display: grid; grid-template-columns: minmax(0,1fr) minmax(0,1fr); gap: 16px;">
+                    <div style="border: 1px solid #2a2a2a; padding: 20px 24px;">
+                        <div style="font-family: 'Barlow Condensed',sans-serif; font-size: 38px; color: #e85c00; line-height: 1; margin-bottom: 6px;">IVS</div>
+                        <div style="font-size: 11px; color: rgba(255,255,255,.5);">2022 &middot; Marco normativo internacional</div>
+                    </div>
+                    <div style="border: 1px solid #2a2a2a; padding: 20px 24px;">
+                        <div style="font-family: 'Barlow Condensed',sans-serif; font-size: 38px; color: #e85c00; line-height: 1; margin-bottom: 6px;">stMCA</div>
+                        <div style="font-size: 11px; color: rgba(255,255,255,.5);">Short Table Market Comparison Approach</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div style="background: #FFFFFF; padding: 56px 24px; overflow-x: hidden;">
+        <div style="max-width: 780px; width: 100%; margin: 0 auto;">
+            <div style="display: flex; gap: 16px; min-width: 0; padding-bottom: 28px; border-bottom: 1px solid #E2E0DB; margin-bottom: 40px;">
+                <div style="font-family: 'Barlow Condensed',sans-serif; font-size: 48px; color: #e85c00; line-height: 1;">01</div>
+                <div>
+                    <div style="font-family: 'Barlow Condensed',sans-serif; font-size: 28px; color: #1a1a1a; line-height: 1.1; margin-bottom: 6px;">Naturaleza de la Venta Forzosa y el Valor de Mercado</div>
+                    <div style="font-size: 13px; color: #888;">Ejecuciones judiciales &middot; IVS 2022 &middot; Degeneraci&oacute;n del mercado</div>
+                </div>
+            </div>
+            <p style="font-size: 15px; color: #444; line-height: 1.7; margin-bottom: 28px;">En el ecosistema de las ejecuciones judiciales, la valuaci&oacute;n de activos trasciende la mera estimaci&oacute;n aritm&eacute;tica para convertirse en un imperativo de ingenier&iacute;a financiera. La norma IVS 2022 (P&aacute;rrafo 170.1) aclara que la "venta forzosa" no es una base de valor independiente, sino una degeneraci&oacute;n de las condiciones de mercado debida a la situaci&oacute;n espec&iacute;fica del intercambio.</p>
+            <div style="display: grid; grid-template-columns: minmax(0,1fr) minmax(0,1fr); gap: 16px; margin-bottom: 28px;">
+                <div style="background: #111111; padding: 28px 32px; display: flex; flex-direction: column; justify-content: center;">
+                    <div style="font-size: 10px; color: #e85c00; margin-bottom: 12px;">Valor de Mercado Est&aacute;ndar</div>
+                    <div style="font-size: 13px; color: #bbb; line-height: 1.6;">Transacci&oacute;n entre partes que act&uacute;an con prudencia, conocimiento y sin coacci&oacute;n, tras una comercializaci&oacute;n adecuada. Regulaci&oacute;n (EU) No 575/2013.</div>
+                </div>
+                <div style="background: #F7F6F4; border: 1px solid #E2E0DB; padding: 28px 32px; display: flex; flex-direction: column; justify-content: center;">
+                    <div style="font-size: 10px; color: #e85c00; margin-bottom: 12px;">Valor de Venta Forzosa</div>
+                    <div style="font-size: 13px; color: #555; line-height: 1.6;">Degeneraci&oacute;n de las condiciones de mercado: horizonte temporal reducido, falta de promoci&oacute;n comercial y coacci&oacute;n sobre el vendedor. Genera una brecha estructural con el valor de mercado.</div>
+                </div>
+            </div>
+            <p style="font-size: 13px; color: #999; line-height: 1.6; font-style: italic; margin-bottom: 48px;">La pr&aacute;ctica habitual de aplicar descuentos porcentuales arbitrarios distorsiona la eficiencia del proceso judicial y genera asimetr&iacute;as de informaci&oacute;n que perjudican la equidad del sistema.</p>
+            <hr style="border: none; border-top: 1px solid #E2E0DB; margin-bottom: 40px;" />
+            <h2 style="font-family: 'Barlow Condensed',sans-serif; font-size: 22px; color: #1a1a1a; margin-bottom: 16px;">Las Tres Limitaciones Operativas de la Venta Forzosa</h2>
+            <p style="font-size: 15px; color: #444; line-height: 1.7; margin-bottom: 24px;">Esta degeneraci&oacute;n se caracteriza por tres restricciones estructurales que imponen una brecha respecto al valor de mercado:</p>
+            <div style="display: grid; grid-template-columns: repeat(3,minmax(0,1fr)); gap: 16px;">
+                <div style="background: #111111; border-top: 4px solid #E85C00; padding: 24px;">
+                    <div style="font-family: 'Barlow Condensed',sans-serif; font-size: 38px; color: #e85c00; line-height: 1; margin-bottom: 12px;">01</div>
+                    <div style="font-size: 14px; margin-bottom: 10px; color: #ffffff;">Horizonte temporal reducido</div>
+                    <div style="font-size: 13px; color: #999; line-height: 1.5;">La urgencia del proceso judicial contrae el tiempo de exposici&oacute;n, impidiendo la maduraci&oacute;n de la oferta.</div>
+                </div>
+                <div style="background: #F7F6F4; border: 1px solid #E2E0DB; border-top: 4px solid #E85C00; padding: 24px;">
+                    <div style="font-family: 'Barlow Condensed',sans-serif; font-size: 38px; color: #e85c00; line-height: 1; margin-bottom: 12px;">02</div>
+                    <div style="font-size: 14px; margin-bottom: 10px; color: #1a1a1a;">Falta de promoci&oacute;n comercial</div>
+                    <div style="font-size: 13px; color: #666; line-height: 1.5;">La ausencia de una campa&ntilde;a de marketing exhaustiva limita la concurrencia de postores calificados.</div>
+                </div>
+                <div style="background: #F7F6F4; border: 1px solid #E2E0DB; border-top: 4px solid #E85C00; padding: 24px;">
+                    <div style="font-family: 'Barlow Condensed',sans-serif; font-size: 38px; color: #e85c00; line-height: 1; margin-bottom: 12px;">03</div>
+                    <div style="font-size: 14px; margin-bottom: 10px; color: #1a1a1a;">Coacci&oacute;n sobre el vendedor</div>
+                    <div style="font-size: 13px; color: #666; line-height: 1.5;">El enajenante act&uacute;a bajo un mandato legal que elimina su autonom&iacute;a y capacidad de negociaci&oacute;n.</div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div style="background: #EDECEA; padding: 56px 24px; overflow-x: hidden;">
+        <div style="max-width: 780px; width: 100%; margin: 0 auto;">
+            <div style="display: flex; gap: 16px; min-width: 0; padding-bottom: 28px; border-bottom: 1px solid #D4D1CC; margin-bottom: 40px;">
+                <div style="font-family: 'Barlow Condensed',sans-serif; font-size: 48px; color: #e85c00; line-height: 1;">02</div>
+                <div>
+                    <div style="font-family: 'Barlow Condensed',sans-serif; font-size: 28px; color: #1a1a1a; line-height: 1.1; margin-bottom: 6px;">El Modelo stMCA: Arquitectura de la Funci&oacute;n de Precio Aditiva</div>
+                    <div style="font-size: 13px; color: #888;">Funci&oacute;n aditiva &middot; Precios marginales &middot; Muestras peque&ntilde;as</div>
+                </div>
+            </div>
+            <p style="font-size: 15px; color: #444; line-height: 1.7; margin-bottom: 36px;">La ingenier&iacute;a de valuaci&oacute;n moderna exige migrar de las estimaciones intuitivas hacia modelos de funci&oacute;n de precio aditiva que permitan la descomposici&oacute;n del vector de precios en segmentos de mercado espec&iacute;ficos. La capacidad de operar con muestras peque&ntilde;as mediante el uso de ratios de posici&oacute;n es el diferenciador cr&iacute;tico del stMCA.</p>
+            <div style="display: grid; grid-template-columns: minmax(0,1fr) minmax(0,1fr); gap: 16px; margin-bottom: 28px;">
+                <div style="background: #111111; padding: 28px 32px; display: flex; flex-direction: column; justify-content: center;">
+                    <div style="font-size: 10px; color: #e85c00; margin-bottom: 12px;">Ecuaci&oacute;n Fundamental del Modelo</div>
+                    <div style="font-family: 'Barlow Condensed',sans-serif; font-size: 36px; color: #ffffff; line-height: 1.2; margin-bottom: 10px;">&Delta; = Vs &minus; Vv</div>
+                    <div style="font-size: 12px; color: #888; line-height: 1.5;">Vs = valor estimado bajo condiciones de mercado<br />Vv = valor obtenido en la venta forzosa</div>
+                </div>
+                <div style="background: #FFFFFF; border: 1px solid #D4D1CC; padding: 28px 32px; display: flex; flex-direction: column; justify-content: center;">
+                    <div style="font-size: 15px; color: #1a1a1a; margin-bottom: 12px;">Ventaja en mercados opacos</div>
+                    <div style="font-size: 13px; color: #555; line-height: 1.6;">En mercados de baja transparencia o micro-segmentos donde los m&eacute;todos estad&iacute;sticos masivos fallan por endogeneidad o falta de datos, este modelo permite al consultor emitir juicios de valor t&eacute;cnicamente defendibles y reproducibles.</div>
+                </div>
+            </div>
+            <p style="font-size: 13px; color: #999; line-height: 1.6; font-style: italic; margin-bottom: 48px;">La sofisticaci&oacute;n del modelo permite determinar la funci&oacute;n de estimaci&oacute;n incluso con una muestra limitada, aislando el peso monetario de cada caracter&iacute;stica f&iacute;sica del activo.</p>
+            <hr style="border: none; border-top: 1px solid #D4D1CC; margin-bottom: 40px;" />
+            <h2 style="font-family: 'Barlow Condensed',sans-serif; font-size: 22px; color: #1a1a1a; margin-bottom: 6px;">Variables T&eacute;cnicas y Precios Marginales</h2>
+            <p style="font-size: 13px; color: #888; margin-bottom: 20px;">Componentes del vector de precios en la funci&oacute;n aditiva del stMCA</p>
+            <div style="overflow-x: auto;">
+                <table style="width: 100%; max-width: 100%; border-collapse: collapse; font-size: 13px; table-layout: fixed;">
+                    <thead>
+                        <tr>
+                            <th style="background: #111111; color: #ffffff; padding: 14px 18px; text-align: left; font-size: 13px;">Variable</th>
+                            <th style="background: #111111; color: #ffffff; padding: 14px 18px; text-align: left; font-size: 13px;">Definici&oacute;n T&eacute;cnica</th>
+                            <th style="background: #111111; color: #ffffff; padding: 14px 18px; text-align: left; font-size: 13px;">Escala</th>
+                            <th style="background: #E85C00; color: #ffffff; padding: 14px 18px; text-align: left; font-size: 13px;">Precio Marginal</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr style="border-bottom: 1px solid #D4D1CC;">
+                            <td style="padding: 16px 18px; background: #FFFFFF; vertical-align: top;"><strong>SUI</strong></td>
+                            <td style="padding: 16px 18px; color: #444; line-height: 1.4; background: #FFFFFF; vertical-align: top;">Superficie principal (&uacute;til interna)</td>
+                            <td style="padding: 16px 18px; color: #444; background: #FFFFFF; vertical-align: top;">Cardinal (m&sup2;)</td>
+                            <td style="padding: 16px 18px; color: #444; background: #FFFFFF; vertical-align: top;">p'<sub>SUI</sub></td>
+                        </tr>
+                        <tr style="border-bottom: 1px solid #D4D1CC;">
+                            <td style="padding: 16px 18px; background: #F5F4F2; vertical-align: top;"><strong>SUB</strong></td>
+                            <td style="padding: 16px 18px; color: #444; line-height: 1.4; background: #F5F4F2; vertical-align: top;">Superficie de balc&oacute;n / terraza</td>
+                            <td style="padding: 16px 18px; color: #444; background: #F5F4F2; vertical-align: top;">Cardinal (m&sup2;)</td>
+                            <td style="padding: 16px 18px; color: #444; background: #F5F4F2; vertical-align: top;">p'<sub>SUB</sub></td>
+                        </tr>
+                        <tr style="border-bottom: 1px solid #D4D1CC;">
+                            <td style="padding: 16px 18px; background: #FFFFFF; vertical-align: top;"><strong>SUE</strong></td>
+                            <td style="padding: 16px 18px; color: #444; line-height: 1.4; background: #FFFFFF; vertical-align: top;">Superficie de &aacute;rea externa</td>
+                            <td style="padding: 16px 18px; color: #444; background: #FFFFFF; vertical-align: top;">Cardinal (m&sup2;)</td>
+                            <td style="padding: 16px 18px; color: #444; background: #FFFFFF; vertical-align: top;">p'<sub>SUE</sub></td>
+                        </tr>
+                        <tr style="border-bottom: 1px solid #D4D1CC;">
+                            <td style="padding: 16px 18px; background: #F5F4F2; vertical-align: top;"><strong>MAN</strong></td>
+                            <td style="padding: 16px 18px; color: #444; line-height: 1.4; background: #F5F4F2; vertical-align: top;">Estado de mantenimiento</td>
+                            <td style="padding: 16px 18px; color: #444; background: #F5F4F2; vertical-align: top;">Ordinal</td>
+                            <td style="padding: 16px 18px; color: #444; background: #F5F4F2; vertical-align: top;">p'<sub>MAN</sub></td>
+                        </tr>
+                        <tr style="border-bottom: 1px solid #D4D1CC;">
+                            <td style="padding: 16px 18px; background: #FFFFFF; vertical-align: top;"><strong>Tcoll</strong></td>
+                            <td style="padding: 16px 18px; color: #444; line-height: 1.4; background: #FFFFFF; vertical-align: top;">Tiempo en el mercado (colocaci&oacute;n)</td>
+                            <td style="padding: 16px 18px; color: #444; background: #FFFFFF; vertical-align: top;">Cardinal (meses)</td>
+                            <td style="padding: 16px 18px; color: #444; background: #FFFFFF; vertical-align: top;">p'<sub>TColl</sub></td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 16px 18px; background: #F5F4F2; vertical-align: top;"><strong>On</strong></td>
+                            <td style="padding: 16px 18px; color: #444; line-height: 1.4; background: #F5F4F2; vertical-align: top;">Gastos de venta e impuestos</td>
+                            <td style="padding: 16px 18px; color: #444; background: #F5F4F2; vertical-align: top;">Porcentaje</td>
+                            <td style="padding: 16px 18px; color: #444; background: #F5F4F2; vertical-align: top;">p'<sub>FISC</sub></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+    <div style="background: #FFFFFF; padding: 56px 24px; overflow-x: hidden;">
+        <div style="max-width: 780px; width: 100%; margin: 0 auto;">
+            <div style="display: flex; gap: 16px; min-width: 0; padding-bottom: 28px; border-bottom: 1px solid #E2E0DB; margin-bottom: 40px;">
+                <div style="font-family: 'Barlow Condensed',sans-serif; font-size: 48px; color: #e85c00; line-height: 1;">03</div>
+                <div>
+                    <div style="font-family: 'Barlow Condensed',sans-serif; font-size: 28px; color: #1a1a1a; line-height: 1.1; margin-bottom: 6px;">Protocolo de Implementaci&oacute;n: Sistema Integrativo de Stima</div>
+                    <div style="font-size: 13px; color: #888;">Proceso ejecutable &middot; &Aacute;lgebra matricial &middot; Evidencia t&eacute;cnica verificable</div>
+                </div>
+            </div>
+            <p style="font-size: 15px; color: #444; line-height: 1.7; margin-bottom: 28px;">Este protocolo constituye el n&uacute;cleo operativo para el ingeniero tasador, dise&ntilde;ado para neutralizar la asimetr&iacute;a de informaci&oacute;n en subastas judiciales mediante un rigor procesal que transforma la opini&oacute;n en evidencia t&eacute;cnica. Al utilizar una matriz donde las variables subjetivas son las inc&oacute;gnitas resueltas por el mercado real, el perito elimina cualquier acusaci&oacute;n de arbitrariedad.</p>
+            <div style="display: grid; grid-template-columns: minmax(0,2fr) minmax(0,3fr); gap: 16px; margin-bottom: 48px;">
+                <div style="background: #E85C00; padding: 28px 32px; display: flex; flex-direction: column; justify-content: center;">
+                    <div style="font-size: 10px; color: rgba(255,255,255,.65); margin-bottom: 12px;">Variables Inaestimabilis</div>
+                    <div style="font-family: 'Barlow Condensed',sans-serif; font-size: 28px; color: #ffffff; line-height: 1.3; margin-bottom: 12px;">LOC &middot; MAN &middot; Tcoll</div>
+                    <div style="font-size: 12px; color: rgba(255,255,255,.75);">Localizaci&oacute;n, Mantenimiento y Tiempo. Inc&oacute;gnitas resueltas por el sistema de ecuaciones lineales del mercado real.</div>
+                </div>
+                <div style="background: #F7F6F4; border: 1px solid #E2E0DB; padding: 28px 32px; display: flex; flex-direction: column; justify-content: center;">
+                    <div style="font-size: 15px; color: #1a1a1a; margin-bottom: 12px;">Blindaje ante impugnaciones</div>
+                    <div style="font-size: 13px; color: #555; line-height: 1.6;">Al resolver las variables subjetivas mediante &aacute;lgebra matricial (Equation 12), el perito transforma la "experiencia" no cuantificable en un juicio de valor verificable ante un juez, blindando el informe ante posibles impugnaciones de las partes.</div>
+                </div>
+            </div>
+            <hr style="border: none; border-top: 1px solid #E2E0DB; margin-bottom: 40px;" />
+            <h2 style="font-family: 'Barlow Condensed',sans-serif; font-size: 22px; color: #1a1a1a; margin-bottom: 24px;">Las Cinco Etapas del Proceso de Ejecuci&oacute;n</h2>
+            <div style="display: flex; flex-direction: column; gap: 12px;">
+                <div style="background: #F7F6F4; border: 1px solid #E2E0DB; display: flex; overflow: hidden;">
+                    <div style="padding: 20px 24px; flex: 1; min-width: 0;">
+                        <div style="font-size: 15px; color: #1a1a1a; margin-bottom: 6px;">01 &mdash; Recopilaci&oacute;n de comparables espec&iacute;ficos</div>
+                        <div style="font-size: 13px; color: #555; line-height: 1.5;">Captura de datos de Vs y Vv de activos adjudicados en el mismo segmento de mercado.</div>
+                    </div>
+                </div>
+                <div style="background: #F7F6F4; border: 1px solid #E2E0DB; display: flex; overflow: hidden;">
+                    <div style="padding: 20px 24px; flex: 1; min-width: 0;">
+                        <div style="font-size: 15px; color: #1a1a1a; margin-bottom: 6px;">02 &mdash; C&aacute;lculo de precios marginales unitarios</div>
+                        <div style="font-size: 13px; color: #555; line-height: 1.5;">Determinaci&oacute;n de valores mediante ratios de posici&oacute;n para superficies (SUI, SUB, SUE) y depreciaci&oacute;n lineal para instalaciones espec&iacute;ficas seg&uacute;n vida &uacute;til residual.</div>
+                    </div>
+                </div>
+                <div style="background: #F7F6F4; border: 1px solid #E2E0DB; display: flex; overflow: hidden;">
+                    <div style="padding: 20px 24px; flex: 1; min-width: 0;">
+                        <div style="font-size: 15px; color: #1a1a1a; margin-bottom: 6px;">03 &mdash; Determinaci&oacute;n de la funci&oacute;n de estimaci&oacute;n</div>
+                        <div style="font-size: 13px; color: #555; line-height: 1.5;">Aplicaci&oacute;n de la f&oacute;rmula a cada comparable para aislar el peso monetario de las caracter&iacute;sticas f&iacute;sicas del activo.</div>
+                    </div>
+                </div>
+                <div style="background: #F7F6F4; border: 1px solid #E2E0DB; display: flex; overflow: hidden;">
+                    <div style="padding: 20px 24px; flex: 1; min-width: 0;">
+                        <div style="font-size: 15px; color: #1a1a1a; margin-bottom: 6px;">04 &mdash; Aislamiento de gastos de liquidaci&oacute;n</div>
+                        <div style="font-size: 13px; color: #555; line-height: 1.5;">C&aacute;lculo de la diferencia neta deduciendo cargas fiscales y procedimentales (Vs &minus; Vv &minus; On).</div>
+                    </div>
+                </div>
+                <div style="background: #F7F6F4; border: 1px solid #E2E0DB; display: flex; overflow: hidden;">
+                    <div style="padding: 20px 24px; flex: 1; min-width: 0;">
+                        <div style="font-size: 15px; color: #1a1a1a; margin-bottom: 6px;">05 &mdash; Configuraci&oacute;n del Sistema Integrativo de Stima</div>
+                        <div style="font-size: 13px; color: #555; line-height: 1.5;">Resoluci&oacute;n de un sistema de ecuaciones lineales mediante &aacute;lgebra matricial para despejar las variables inaestimabilis: Localizaci&oacute;n (LOC), Mantenimiento (MAN) y Tiempo (Tcoll).</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div style="background: #111111; padding: 56px 24px; overflow-x: hidden;">
+        <div style="max-width: 780px; width: 100%; margin: 0 auto;">
+            <div style="display: flex; gap: 16px; min-width: 0; padding-bottom: 28px; border-bottom: 1px solid #2a2a2a; margin-bottom: 40px;">
+                <div style="font-family: 'Barlow Condensed',sans-serif; font-size: 48px; color: #e85c00; line-height: 1;">04</div>
+                <div>
+                    <div style="font-family: 'Barlow Condensed',sans-serif; font-size: 28px; color: #ffffff; line-height: 1.1; margin-bottom: 6px;">Conclusiones y Recomendaciones Estrat&eacute;gicas</div>
+                    <div style="font-size: 13px; color: #666;">EBA &middot; CSM &middot; Gesti&oacute;n de activos &middot; NPL management</div>
+                </div>
+            </div>
+            <p style="font-size: 15px; color: #bbb; line-height: 1.7; margin-bottom: 36px;">La adopci&oacute;n del modelo stMCA garantiza el cumplimiento de las directrices de la EBA (European Banking Authority) y el CSM, que exigen rapidez y eficiencia t&eacute;cnica en la liquidaci&oacute;n de activos para preservar su valor econ&oacute;mico. Una valoraci&oacute;n t&eacute;cnicamente correcta no solo optimiza el balance del acreedor, sino que protege el tejido socioecon&oacute;mico.</p>
+            <div style="display: grid; grid-template-columns: minmax(0,1fr) minmax(0,1fr); gap: 16px; margin-bottom: 48px;">
+                <div style="background: #E85C00; padding: 28px 32px; display: flex; flex-direction: column; justify-content: center;">
+                    <div style="font-size: 10px; color: rgba(255,255,255,.65); margin-bottom: 12px;">Objetividad Cient&iacute;fica</div>
+                    <div style="font-size: 13px; color: rgba(255,255,255,.9); line-height: 1.6;">Sustituci&oacute;n de descuentos intuitivos por una funci&oacute;n aditiva de precio derivada de la realidad del mercado. Elimina la discrecionalidad t&eacute;cnica y la heur&iacute;stica subjetiva.</div>
+                </div>
+                <div style="border: 1px solid #2a2a2a; padding: 28px 32px; display: flex; flex-direction: column; justify-content: center;">
+                    <div style="font-size: 10px; color: #e85c00; margin-bottom: 12px;">Rigor Normativo</div>
+                    <div style="font-size: 13px; color: #bbb; line-height: 1.6;">Alineaci&oacute;n total con los est&aacute;ndares internacionales IVS y EVS, elevando el est&aacute;ndar de los reportes de garant&iacute;as para entidades bancarias y peritos judiciales.</div>
+                </div>
+            </div>
+            <hr style="border: none; border-top: 1px solid #2a2a2a; margin-bottom: 40px;" />
+            <h2 style="font-family: 'Barlow Condensed',sans-serif; font-size: 22px; color: #ffffff; margin-bottom: 24px;">Recomendaciones por Perfil de Actor</h2>
+            <div style="display: flex; flex-direction: column; gap: 12px;">
+                <div style="background: #1a1a1a; border: 1px solid #2a2a2a; display: flex; overflow: hidden;">
+                    <div style="padding: 20px 24px; flex: 1; min-width: 0;">
+                        <div style="font-size: 15px; color: #e85c00; margin-bottom: 6px;">Para Entidades Bancarias</div>
+                        <div style="font-size: 13px; color: #999; line-height: 1.5;">Integrar el stMCA en los manuales de monitoreo de colaterales para ajustar las provisiones de p&eacute;rdida (LGD) bas&aacute;ndose en el TCOL espec&iacute;fico de cada jurisdicci&oacute;n.</div>
+                    </div>
+                </div>
+                <div style="background: #1a1a1a; border: 1px solid #2a2a2a; display: flex; overflow: hidden;">
+                    <div style="padding: 20px 24px; flex: 1; min-width: 0;">
+                        <div style="font-size: 15px; color: #ffffff; margin-bottom: 6px;">Para Peritos Judiciales</div>
+                        <div style="font-size: 13px; color: #999; line-height: 1.5;">Abandonar el uso de bases de datos uniparam&eacute;tricas en favor de sistemas integrativos de stima que consideren la localizaci&oacute;n y el tiempo como variables end&oacute;genas.</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div style="background: #FFFFFF; padding: 56px 24px; overflow-x: hidden;">
+        <div style="max-width: 780px; width: 100%; margin: 0 auto;">
+            <div style="display: flex; gap: 16px; min-width: 0; padding-bottom: 28px; border-bottom: 1px solid #E2E0DB; margin-bottom: 40px;">
+                <div style="font-family: 'Barlow Condensed',sans-serif; font-size: 48px; color: #e85c00; line-height: 1;">+</div>
+                <div>
+                    <div style="font-family: 'Barlow Condensed',sans-serif; font-size: 28px; color: #1a1a1a; line-height: 1.1; margin-bottom: 6px;">Impacto en el Sistema Judicial y Financiero</div>
+                    <div style="font-size: 13px; color: #888;">Equidad social &middot; Transparencia &middot; Gesti&oacute;n de NPLs</div>
+                </div>
+            </div>
+            <p style="font-size: 15px; color: #444; line-height: 1.7; margin-bottom: 28px;">Al evitar liquidaciones arbitrarias y precios de remate desproporcionados, se garantiza una equidad social donde el proceso judicial cumple su fin &uacute;ltimo: saldar obligaciones de la manera m&aacute;s justa y transparente posible para todas las partes. El futuro de la ingenier&iacute;a de valuaci&oacute;n reside en la transici&oacute;n hacia modelos basados en datos objetivos y descomposiciones vectoriales precisas.</p>
+            <div style="display: grid; grid-template-columns: minmax(0,1fr) minmax(0,1fr); gap: 16px;">
+                <div style="background: #F7F6F4; border: 1px solid #E2E0DB; padding: 28px 32px; display: flex; flex-direction: column; justify-content: center;">
+                    <div style="font-size: 15px; color: #1a1a1a; margin-bottom: 12px;">Para las instituciones financieras</div>
+                    <div style="font-size: 13px; color: #555; line-height: 1.6;">La imprecisi&oacute;n t&eacute;cnica ralentiza la recuperaci&oacute;n del cr&eacute;dito en la gesti&oacute;n de NPLs y genera asimetr&iacute;as de informaci&oacute;n que perjudican la eficiencia del proceso. El stMCA acelera la liquidaci&oacute;n preservando el valor del colateral.</div>
+                </div>
+                <div style="background: #111111; padding: 28px 32px; display: flex; flex-direction: column; justify-content: center;">
+                    <div style="font-size: 10px; color: #e85c00; margin-bottom: 12px;">Basado en la investigaci&oacute;n</div>
+                    <div style="font-size: 13px; color: #bbb; line-height: 1.6;">d'Amato M., Cucuzza G., Bambagioni G. (2023). Appraising forced sale value by the method of short table market comparison approach. <em style="color: #999;">Aestimum.</em></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div style="background: #E85C00; padding: 32px 24px; overflow-x: hidden;">
+        <div style="max-width: 780px; width: 100%; margin: 0 auto; display: grid; grid-template-columns: minmax(0,1fr) minmax(0,1fr); gap: 24px; align-items: end;">
+            <div>
+                <div style="font-family: 'Barlow Condensed',sans-serif; font-size: 48px; color: #ffffff; line-height: 1.0; margin-bottom: 100px;"><img src="Logotipo AnahuacOnline.svg" alt="Logotipo AnahuacOnline.svg" width="297" height="83"></div>
+            </div>
+            <div style="display: flex; flex-direction: column; gap: 16px; justify-content: flex-end;">
+                <div style="background: rgba(0,0,0,.2); padding: 20px 24px;">
+                    <div style="font-size: 10px; color: rgba(255,255,255,.6); margin-bottom: 10px;">De la opini&oacute;n a la evidencia t&eacute;cnica</div>
+                    <div style="font-size: 13px; color: rgba(255,255,255,.85); line-height: 1.5;">El stMCA transforma juicios subjetivos en un sistema verificable ante un juez, blindando el informe de valoraci&oacute;n ante cualquier impugnaci&oacute;n.</div>
+                </div>
+                <div style="background: rgba(0,0,0,.2); padding: 20px 24px;">
+                    <div style="font-size: 10px; color: rgba(255,255,255,.6); margin-bottom: 10px;">An&aacute;huac Online &middot; An&aacute;lisis Estrat&eacute;gico</div>
+                    <div style="font-size: 13px; color: rgba(255,255,255,.85); line-height: 1.5;">Modelado del Valor de Venta Forzosa mediante el Enfoque de Comparaci&oacute;n de Mercado de Tabla Corta (stMCA).</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
